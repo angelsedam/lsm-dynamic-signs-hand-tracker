@@ -127,7 +127,8 @@ Desarrollar un pipeline reproducible de **adquisición → etiquetado → entren
 ## 5. Bibliografía
 - Hernández-Sampieri, R., & Mendoza, C. (2023). *Metodología de la investigación* (3.ª ed.). McGraw-Hill.  
 - Visengeriyeva, L., et al. (2023). *CRISP-ML(Q): The ML Lifecycle Process*. [ml-ops.org](https://ml-ops.org/content/crisp-ml)  
-- Li, D., et al. (2020). *Word-level deep sign language recognition from video*. WACV.  
+- Li, D., et al. (2020). *Word-level deep sign language recognition from video*. WACV.
+- Navarrete López, J. A., & Lopez-Nava, I. H. (2025). Mexican Sign Language Alphabet (dynamic signs only) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14689869 
 - [WLASL Dataset](https://dxli94.github.io/WLASL/)  
 - [MX-ITESO-100 Dataset](https://www.mdpi.com/2414-4088/7/8/83)  
 - [MediaPipe Hands](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker)  
